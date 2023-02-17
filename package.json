@@ -1,0 +1,30 @@
+{
+  "name": "crud-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/leo-mezie.git"
+  },
+  "author": "leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/leo-mezie/issues"
+  },
+  "homepage": "https://github.com/github.com/leo-mezie#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.8.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20"
+  }
+}
