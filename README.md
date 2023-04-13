@@ -1,3 +1,2 @@
 # user-management-mongo
-# developed with nodejs ,
- express js and mongo db
+# developed with nodejs,express js and mongo db
